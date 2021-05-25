@@ -1,0 +1,6 @@
+Primer tarea Git con GitHub
+Materia: Aplicaciones Web 
+Grupo: 3C - Matutino
+Carrera: Tecnologías de la Información
+Área: Desarrollo de software multiplataforma
+Docente: José Narvaez 
